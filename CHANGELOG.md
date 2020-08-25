@@ -31,6 +31,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/).
    * final inner eval loop hooks ([#3154](https://github.com/PyTorchLightning/pytorch-lightning/pull/3154))
    * clean up hooks in run_evaluation ([#3156](https://github.com/PyTorchLightning/pytorch-lightning/pull/3156))
    * clean up data reset ([#3161](https://github.com/PyTorchLightning/pytorch-lightning/pull/3161))
+   * expand eval loop out ([#3165](https://github.com/PyTorchLightning/pytorch-lightning/pull/3165))
 
 
 ### Deprecated
